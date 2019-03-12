@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{07B4888E-E6D0-4192-AB9F-8E0B9B453DAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavApp/QuintPage.xaml">
+    <Files>
+      <File FileName="NavApp/QuintPage.xaml" Line="5" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavApp.Android PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.ItemProperties.NavApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
